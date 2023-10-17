@@ -1,0 +1,16 @@
+button{
+    border-radius: 5px;
+    margin: auto;
+    background-color: rgb(77, 77, 81);
+    color: white;
+    padding: 10px;
+    position: relative;
+}
+#painel{
+    margin: auto;
+    width: 50%;
+    background-color: rgb(151, 149, 149);
+    border: 3px solid rgb(75, 75, 75);
+    padding: 10px;
+    border-radius: 10px;
+}
